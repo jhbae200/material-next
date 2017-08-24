@@ -1,0 +1,39 @@
+{
+  "name": "material-next",
+  "version": "1.0.0",
+  "description": "mysql procedure management",
+  "author": "Jinhwan",
+  "private": true,
+  "license": "MIT",
+  "scripts": {
+    "dev": "next",
+    "test": "jest"
+  },
+  "dependencies": {
+    "brace": "^0.10.0",
+    "jss": "^8.1.0",
+    "jss-preset-default": "^3.0.0",
+    "material-ui": "next",
+    "material-ui-icons": "^1.0.0-beta.5",
+    "next": "latest",
+    "prop-types": "latest",
+    "react": "latest",
+    "react-ace": "^5.2.0",
+    "react-dom": "latest",
+    "react-jss": "latest",
+    "react-syntax-highlighter": "^5.7.0",
+    "recompose": "latest"
+  },
+  "devDependencies": {
+    "babel-eslint": "^7.2.3",
+    "eslint": "^4.4.1",
+    "eslint-config-airbnb": "^15.1.0",
+    "eslint-loader": "^1.9.0",
+    "eslint-plugin-import": "^2.7.0",
+    "eslint-plugin-jest": "^20.0.3",
+    "eslint-plugin-jsx-a11y": "^6.0.2",
+    "eslint-plugin-react": "^7.1.0",
+    "jest": "^20.0.4",
+    "react-test-renderer": "^15.6.1"
+  }
+}
